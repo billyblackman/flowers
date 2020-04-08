@@ -27,5 +27,29 @@
             "color": "green"
 
         }
+    ],
+    "retailers": [
+        {
+            "id": 1,
+            "name": "Phil's Phun Phlowers"
+        },
+        {
+            "id": 2,
+            "name": "Ballardson's Big Bad Begonia Bizzarrerie"
+        },
+        {
+            "id": 3,
+            "name": "Tulip Town"
+        },
+        {
+            "id": 4,
+            "name": "GETCHYA FLOWAHS HEEAH"
+        },
+        {
+            "id": 5,
+            "name": "The Plant Place"
+        }
     ]
 }
+
+    
