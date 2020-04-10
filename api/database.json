@@ -31,23 +31,42 @@
     "retailers": [
         {
             "id": 1,
-            "name": "Phil's Phun Phlowers"
+            "name": "Phil's Phun Phlowers",
+            "distributorId": 1
         },
         {
             "id": 2,
-            "name": "Ballardson's Big Bad Begonia Bizzarrerie"
+            "name": "Ballardson's Big Bad Begonia Bizzarrerie",
+            "distributorId": 2
         },
         {
             "id": 3,
-            "name": "Tulip Town"
+            "name": "Tulip Town",
+            "distributorId": 3
         },
         {
             "id": 4,
-            "name": "GETCHYA FLOWAHS HEEAH"
+            "name": "GETCHYA FLOWAHS HEEAH",
+            "distributorId": 1
         },
         {
             "id": 5,
-            "name": "The Plant Place"
+            "name": "The Plant Place",
+            "distributorId": 2
+        }
+    ],
+    "distributors": [
+        {
+            "id": 1,
+            "name": "Flower Distributors"
+        },
+        {
+            "id": 2,
+            "name": "Wholesale Flowerinos"
+        },
+        {
+            "id": 3,
+            "name": "Big Ol' Flower Warehouse"
         }
     ]
 }
